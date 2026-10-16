@@ -10,13 +10,6 @@
 
 <p data-importer="text" align="left">Idade: 22 anos  <br>-📍 Localização: Pelotas / RS  <br>🎓 **Formação: Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas (ADS)<br>💡Praticar desenvolvimento criando projetos pessoais e registrando minha evolução nos trabalhos acadêmicos.</p>
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adrianppety/Adrianppety/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adrianppety/Adrianppety/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adrianppety/Adrianppety/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
